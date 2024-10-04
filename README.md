@@ -1,4 +1,2 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
-
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+# 欢迎来到书都的游戏项目，京城胡同生存计：斗大爷
+这是一个素材仓库，用来存储贴图(/image)，3d模型(/model)，代码脚本(/script)，游戏运行视频(/video)
